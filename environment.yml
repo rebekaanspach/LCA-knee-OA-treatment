@@ -1,0 +1,15 @@
+name: LCA_knee_OA_treatment
+channels: [conda-forge, cmutel, nodefaults]
+dependencies:
+  - python=3.11.*
+  - pandas=1.5.*
+  - jupyterlab=3.*
+  - brightway2_nosolver=2.4.*
+  - scikit-umfpack=0.3.*
+  # numpy 1.26 has an error when trying to import umfpack
+  - numpy=1.24.*
+  - seaborn=*
+  - pip=24.*
+  - pip:
+      # Install presamples from git so compatible with Python 3.9+
+      - https://github.com/PascalLesage/presamples/archive/3e7bfebb15dda2070621a2fcc12b789b0ebf2f27.zip
