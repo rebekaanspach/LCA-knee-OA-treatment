@@ -1,10 +1,11 @@
 
 final_activities_UKR = {
-    ("UKR", "663ac4ef3d314e739f29ec63ea2ca399"): "Total",
+#    ("UKR", "663ac4ef3d314e739f29ec63ea2ca399"): "Total",
     ("Raw materials", "5153107d093942aa988fb2497e76ea87_copy1"): "Implant (material)", #titanium alloy "1- Ti6Al4V production"
     ("Electricity", "b8a30da590955ed35d60541106d6ceb4_copy1"): "Implant (material)", #heat for titanium powder production for coating(part of material impact)
 	("Raw materials", "08914bd137d643eb86c15648a647e32e_copy1"): "Implant (material)", #CoCr alloy "1- CoCrMo production"
     ("Raw materials", "7a1f999684254ac09b24d0b10ace75c9_copy1"): "Implant (material)", #UHMWP "01- UHMWP production- UKR"
+    ("UKR", "17df4eb0cfeaf7bb4d79de81b339923d_copy1"): "End-of-life", #UHMWP incineration
 
     ("Electricity", "3855bf674145307cd56a3fac8c83b643_copy1"): "Implant (manufac.)",#machining, compression moulding  (electricity)
     ("Electricity", "62ff8db0ca3d86362e2852e28ab9bed8_copy1")	: "Implant (manufac.)",#titanium coating, grinding(electricity), polishing	
@@ -27,7 +28,7 @@ final_activities_UKR = {
 }
 
 final_activities_AMHTO = {
-    ("AM HTO", "1a637b9baee74199b8027ffeb333279c"): "Total",
+#    ("AM HTO", "1a637b9baee74199b8027ffeb333279c"): "Total",
     ("Raw materials", "5153107d093942aa988fb2497e76ea87_copy1"): "Implant (material)", #titanium alloy "1- Ti6Al4V production"
     ("Electricity", "13f64f1aea6e5205092f3245ab243d06_copy1"): "Implant (material)", #heat for powder production (part of material impact)
 
@@ -46,7 +47,7 @@ final_activities_AMHTO = {
 }
 
 final_activities_AMHTO_steel = {
-    ("AM HTO- jig steel", "1a637b9baee74199b8027ffeb333279c"): "Total",
+ #   ("AM HTO- jig steel", "1a637b9baee74199b8027ffeb333279c"): "Total",
     ("Raw materials", "5153107d093942aa988fb2497e76ea87_copy1"): "Implant (material)", #titanium alloy "1- Ti6Al4V production"
     ("Electricity", "13f64f1aea6e5205092f3245ab243d06_copy1"): "Implant (material)", #heat for powder production (part of material impact)
     ("Electricity", "826d168b2214847a40d2707229194e67_copy1"): "Implant (manufac.)",#printing and polishing 
@@ -70,7 +71,7 @@ final_activities_AMHTO_steel = {
 }
 
 final_activities_CMHTO = {
-    ("CM HTO", "2f3acaae6c4e4035b2d24c71725b17d8"): "Total",
+ #   ("CM HTO", "2f3acaae6c4e4035b2d24c71725b17d8"): "Total",
 
 
     ("Raw materials", "5153107d093942aa988fb2497e76ea87_copy1"): "Implant (material)", #titanium alloy "1- Ti6Al4V production"
@@ -110,7 +111,7 @@ final_activities = {
 
 # Choose a sensible order
 component_order = [
-	"Total",
+#	"Total",
     "Implant (material)",
     "Implant (manufac.)",
     "Argon",
@@ -120,4 +121,5 @@ component_order = [
     "Sterilisation",
     "Transport",
     "Anesthesia",
+    "End-of-life",
 ]

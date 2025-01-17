@@ -1,0 +1,541 @@
+method,component,score,device,normalised_score
+acidification: terrestrial,Implant (material),0.01566226217171665,CM HTO,0.6657156838328545
+climate change,Implant (material),4.008664483285737,CM HTO,0.39210885768121523
+ecotoxicity: freshwater,Implant (material),0.3246247657568158,CM HTO,0.733401067681085
+ecotoxicity: marine,Implant (material),0.453534733924681,CM HTO,0.7355152260316298
+ecotoxicity: terrestrial,Implant (material),7.366651193853992,CM HTO,0.22925930838369643
+"energy resources: non-renewable, fossil",Implant (material),0.8809259856078193,CM HTO,0.48972940483295385
+eutrophication: freshwater,Implant (material),0.0018681612331499446,CM HTO,0.7973633307824892
+eutrophication: marine,Implant (material),9.567451051439753e-05,CM HTO,0.4505200631655186
+human toxicity: carcinogenic,Implant (material),1.3674708191112859,CM HTO,0.5583384533968034
+human toxicity: non-carcinogenic,Implant (material),3.756960697616527,CM HTO,0.6530841407409229
+ionising radiation,Implant (material),0.19983111055141856,CM HTO,0.146972023130661
+land use,Implant (material),0.13724566390850731,CM HTO,0.4439070261057857
+material resources: metals/minerals,Implant (material),0.3701999767309644,CM HTO,0.8317541444728591
+ozone depletion,Implant (material),1.50802861357381e-06,CM HTO,0.5393858816476544
+particulate matter formation,Implant (material),0.00728374723783236,CM HTO,0.6355141542911416
+photochemical oxidant formation: human health,Implant (material),0.009166548307790134,CM HTO,0.5304197835634973
+photochemical oxidant formation: terrestrial ecosystems,Implant (material),0.009273204076593392,CM HTO,0.5294337641208744
+water use,Implant (material),0.025666680138297097,CM HTO,0.5034727770013792
+acidification: terrestrial,Implant (manufac.),0.000542453949427964,CM HTO,0.02305670138400508
+climate change,Implant (manufac.),0.4536477771395613,CM HTO,0.044373709105735765
+ecotoxicity: freshwater,Implant (manufac.),0.011758731574074121,CM HTO,0.0265656450175511
+ecotoxicity: marine,Implant (manufac.),0.014743895059639729,CM HTO,0.023910758087997905
+ecotoxicity: terrestrial,Implant (manufac.),0.6543708477609838,CM HTO,0.020364831188057153
+"energy resources: non-renewable, fossil",Implant (manufac.),0.1304054178305563,CM HTO,0.0724957246176439
+eutrophication: freshwater,Implant (manufac.),2.402042728303306e-05,CM HTO,0.010252331311320246
+eutrophication: marine,Implant (manufac.),1.1376156550634595e-05,CM HTO,0.05356898864929615
+human toxicity: carcinogenic,Implant (manufac.),0.009214297194408949,CM HTO,0.003762198339273021
+human toxicity: non-carcinogenic,Implant (manufac.),0.1647082223690394,CM HTO,0.028631741595564718
+ionising radiation,Implant (manufac.),0.5001687582848231,CM HTO,0.36786471390277303
+land use,Implant (manufac.),0.02504916654927367,CM HTO,0.08101896054602674
+material resources: metals/minerals,Implant (manufac.),0.002181742379802036,CM HTO,0.0049018729892876265
+ozone depletion,Implant (manufac.),2.649940700218383e-07,CM HTO,0.09478206103224822
+particulate matter formation,Implant (manufac.),0.0002089011464531533,CM HTO,0.01822683175070403
+photochemical oxidant formation: human health,Implant (manufac.),0.0003870710181384632,CM HTO,0.022397757451430727
+photochemical oxidant formation: terrestrial ecosystems,Implant (manufac.),0.00040174752247567496,CM HTO,0.02293691601022861
+water use,Implant (manufac.),0.009889247435487128,CM HTO,0.19398562034399552
+acidification: terrestrial,Argon,8.609924087950661e-08,CM HTO,3.659600024005226e-06
+climate change,Argon,2.6532685462663727e-05,CM HTO,2.5953035060326563e-06
+ecotoxicity: freshwater,Argon,6.135508253214133e-07,CM HTO,1.386150650947024e-06
+ecotoxicity: marine,Argon,8.218906411278882e-07,CM HTO,1.332892577931753e-06
+ecotoxicity: terrestrial,Argon,2.4773228583571923e-05,CM HTO,7.709735539317143e-07
+"energy resources: non-renewable, fossil",Argon,6.549806071482064e-06,CM HTO,3.6412055967959488e-06
+eutrophication: freshwater,Argon,1.2300818066066805e-08,CM HTO,5.250200619981073e-06
+eutrophication: marine,Argon,8.780058400398567e-10,CM HTO,4.134426655414401e-06
+human toxicity: carcinogenic,Argon,1.0675860231710303e-06,CM HTO,4.3589546534729234e-07
+human toxicity: non-carcinogenic,Argon,1.9461259074614818e-05,CM HTO,3.3830110782219847e-06
+ionising radiation,Argon,3.295837846598512e-06,CM HTO,2.4240267438264794e-06
+land use,Argon,3.637222856192579e-07,CM HTO,1.176422435067078e-06
+material resources: metals/minerals,Argon,7.258673819016204e-08,CM HTO,1.6308569453884513e-07
+ozone depletion,Argon,9.342939729662475e-12,CM HTO,3.3417467930678875e-06
+particulate matter formation,Argon,5.5034831962917284e-08,CM HTO,4.801843549677752e-06
+photochemical oxidant formation: human health,Argon,5.6557334313017176e-08,CM HTO,3.2726745136710138e-06
+photochemical oxidant formation: terrestrial ecosystems,Argon,5.696471537972571e-08,CM HTO,3.252278655409651e-06
+water use,Argon,6.902447052202344e-07,CM HTO,1.3539710499185214e-05
+acidification: terrestrial,Instruments (material),0.002511745943349746,CM HTO,0.10676035491929223
+climate change,Instruments (material),0.6940001585859248,CM HTO,0.06788385771578984
+ecotoxicity: freshwater,Instruments (material),0.05613699080502739,CM HTO,0.12682621086171986
+ecotoxicity: marine,Instruments (material),0.08149489964499786,CM HTO,0.13216350380513525
+ecotoxicity: terrestrial,Instruments (material),19.24589063179097,CM HTO,0.5989559515392623
+"energy resources: non-renewable, fossil",Instruments (material),0.16372138390725344,CM HTO,0.09101692674442442
+eutrophication: freshwater,Instruments (material),0.00023199585799902917,CM HTO,0.0990198205483262
+eutrophication: marine,Instruments (material),1.946746662487248e-05,CM HTO,0.09167002001217822
+human toxicity: carcinogenic,Instruments (material),1.0308825644711377,CM HTO,0.42090943999420305
+human toxicity: non-carcinogenic,Instruments (material),0.9145021347836554,CM HTO,0.15897074496409444
+ionising radiation,Instruments (material),0.04398141830637136,CM HTO,0.032347505905393176
+land use,Instruments (material),0.021840383870638334,CM HTO,0.07064048201542396
+material resources: metals/minerals,Instruments (material),0.06316527556835339,CM HTO,0.1419178364209599
+ozone depletion,Instruments (material),2.044119727100527e-07,CM HTO,0.07311328918239492
+particulate matter formation,Instruments (material),0.002268946573181459,CM HTO,0.19796783379544092
+photochemical oxidant formation: human health,Instruments (material),0.001597558113474946,CM HTO,0.09244225856087535
+photochemical oxidant formation: terrestrial ecosystems,Instruments (material),0.0016460235962305646,CM HTO,0.09397619864570761
+water use,Instruments (material),0.0051285275397525785,CM HTO,0.10060023300460214
+acidification: terrestrial,Instruments (manufac.),4.581565360725822e-05,CM HTO,0.0019473687030014861
+climate change,Instruments (manufac.),0.023099105127416114,CM HTO,0.002259446696707699
+ecotoxicity: freshwater,Instruments (manufac.),0.0009345011233793605,CM HTO,0.0021112502616298197
+ecotoxicity: marine,Instruments (manufac.),0.0012404177011992776,CM HTO,0.0020116344738939787
+ecotoxicity: terrestrial,Instruments (manufac.),0.08934095700762738,CM HTO,0.002780401226407269
+"energy resources: non-renewable, fossil",Instruments (manufac.),0.003387685486757864,CM HTO,0.0018833014626608584
+eutrophication: freshwater,Instruments (manufac.),7.659711103653125e-06,CM HTO,0.0032692963808816275
+eutrophication: marine,Instruments (manufac.),1.4303172311162079e-06,CM HTO,0.006735196300923155
+human toxicity: carcinogenic,Instruments (manufac.),0.0015334571060233294,CM HTO,0.0006261106686604378
+human toxicity: non-carcinogenic,Instruments (manufac.),0.02476378196942677,CM HTO,0.004304765093565906
+ionising radiation,Instruments (manufac.),0.05509595017963994,CM HTO,0.04052203504180697
+land use,Instruments (manufac.),0.0011748226242426552,CM HTO,0.003799843306357641
+material resources: metals/minerals,Instruments (manufac.),0.0002735422562286035,CM HTO,0.0006145864927267226
+ozone depletion,Instruments (manufac.),3.179623521397359e-08,CM HTO,0.011372755271082871
+particulate matter formation,Instruments (manufac.),1.829999911009492e-05,CM HTO,0.0015966930315173418
+photochemical oxidant formation: human health,Instruments (manufac.),2.6407951426527592e-05,CM HTO,0.001528088808315132
+photochemical oxidant formation: terrestrial ecosystems,Instruments (manufac.),2.692059050514204e-05,CM HTO,0.0015369735687656612
+water use,Instruments (manufac.),0.0035748001394685733,CM HTO,0.07012260813418046
+acidification: terrestrial,Packaging,0.0005462422854503499,CM HTO,0.023217722485432274
+climate change,Packaging,0.23961121923747286,CM HTO,0.0234376515806079
+ecotoxicity: freshwater,Packaging,0.006482146317743964,CM HTO,0.014644640618269348
+ecotoxicity: marine,Packaging,0.008608295571755062,CM HTO,0.01396041359041309
+ecotoxicity: terrestrial,Packaging,0.6393785546540728,CM HTO,0.019898252459361044
+"energy resources: non-renewable, fossil",Packaging,0.06420846904703054,CM HTO,0.0356951388032233
+eutrophication: freshwater,Packaging,6.058474045795649e-05,CM HTO,0.025858608769381022
+eutrophication: marine,Packaging,6.38340796814653e-05,CM HTO,0.3005872040064295
+human toxicity: carcinogenic,Packaging,0.007342086900324759,CM HTO,0.0029977747147075656
+human toxicity: non-carcinogenic,Packaging,0.1578806266518882,CM HTO,0.027444879437253895
+ionising radiation,Packaging,0.007221708489697476,CM HTO,0.005311430759013883
+land use,Packaging,0.046795109252747935,CM HTO,0.15135398229069336
+material resources: metals/minerals,Packaging,0.0016958387616706327,CM HTO,0.0038101593923176784
+ozone depletion,Packaging,1.1447253318687415e-07,CM HTO,0.0409440959419968
+particulate matter formation,Packaging,0.00025139317414651344,CM HTO,0.02193430321585855
+photochemical oxidant formation: human health,Packaging,0.0004545694833096996,CM HTO,0.02630353747732869
+photochemical oxidant formation: terrestrial ecosystems,Packaging,0.0004686227905674413,CM HTO,0.026755016487687664
+water use,Packaging,0.002174998434993692,CM HTO,0.042664360803172464
+acidification: terrestrial,Sterilisation,0.0005106308716637998,CM HTO,0.021704079282346397
+climate change,Sterilisation,0.2950623753078452,CM HTO,0.02886162496488942
+ecotoxicity: freshwater,Sterilisation,0.024468507907859934,CM HTO,0.05527991612824373
+ecotoxicity: marine,Sterilisation,0.030684245641388705,CM HTO,0.04976185544431549
+ecotoxicity: terrestrial,Sterilisation,0.8419143037023546,CM HTO,0.026201415800191176
+"energy resources: non-renewable, fossil",Sterilisation,0.07727716493233687,CM HTO,0.042960362854297246
+eutrophication: freshwater,Sterilisation,4.377348022699786e-05,CM HTO,0.018683273892205317
+eutrophication: marine,Sterilisation,5.493757358361488e-06,CM HTO,0.02586945988851016
+human toxicity: carcinogenic,Sterilisation,0.009626906749436654,CM HTO,0.0039306668561812155
+human toxicity: non-carcinogenic,Sterilisation,0.1955546784740941,CM HTO,0.033993876816476865
+ionising radiation,Sterilisation,0.1449249121789874,CM HTO,0.10658954697396063
+land use,Sterilisation,0.020580999353773066,CM HTO,0.06656713193874675
+material resources: metals/minerals,Sterilisation,0.0016647536045140856,CM HTO,0.0037403181985800086
+ozone depletion,Sterilisation,1.249952532018279e-07,CM HTO,0.044707822015566716
+particulate matter formation,Sterilisation,0.0001787759261128065,CM HTO,0.01559837646494272
+photochemical oxidant formation: human health,Sterilisation,0.0003922595322763271,CM HTO,0.02269798938755472
+photochemical oxidant formation: terrestrial ecosystems,Sterilisation,0.0003965813216842349,CM HTO,0.02264196281944095
+water use,Sterilisation,0.001289733938519022,CM HTO,0.025299178706412167
+acidification: terrestrial,Transport,0.0025029066193464917,CM HTO,0.10638464440193969
+climate change,Transport,0.8292584174917705,CM HTO,0.08111418956637412
+ecotoxicity: freshwater,Transport,0.002242153656682508,CM HTO,0.005065534300447853
+ecotoxicity: marine,Transport,0.004493121736826906,CM HTO,0.00728667332985062
+ecotoxicity: terrestrial,Transport,2.4181284465006225,CM HTO,0.07525515198686125
+"energy resources: non-renewable, fossil",Transport,0.26910888407434963,CM HTO,0.14960454769881615
+eutrophication: freshwater,Transport,1.1012298530791662e-05,CM HTO,0.004700238330755672
+eutrophication: marine,Transport,1.401027963525423e-06,CM HTO,0.0065972765706404845
+human toxicity: carcinogenic,Transport,0.005438514576089824,CM HTO,0.002220545970526373
+human toxicity: non-carcinogenic,Transport,0.22044644368337005,CM HTO,0.03832088963392212
+ionising radiation,Transport,0.008054763091829276,CM HTO,0.005924126749722069
+land use,Transport,0.0026006765671551897,CM HTO,0.00841162167103848
+material resources: metals/minerals,Transport,0.0031303707105140733,CM HTO,0.007033222517187559
+ozone depletion,Transport,2.1344918449945602e-07,CM HTO,0.07634568438019686
+particulate matter formation,Transport,0.0008376013724500208,CM HTO,0.07308154861289351
+photochemical oxidant formation: human health,Transport,0.004231681386106438,CM HTO,0.24486507347817338
+photochemical oxidant formation: terrestrial ecosystems,Transport,0.004266708918599799,CM HTO,0.24359862508409738
+water use,Transport,0.0003976899265098376,CM HTO,0.007801010906222588
+acidification: terrestrial,Anesthesia,0.0012048102576387556,CM HTO,0.05120978539110436
+climate change,Anesthesia,3.67997583306889,CM HTO,0.35995806738517394
+ecotoxicity: freshwater,Anesthesia,0.015980840970989677,CM HTO,0.036104348980402386
+ecotoxicity: marine,Anesthesia,0.02182138422168646,CM HTO,0.03538860234418603
+ecotoxicity: terrestrial,Anesthesia,0.8766976444793927,CM HTO,0.027283916442609434
+"energy resources: non-renewable, fossil",Anesthesia,0.2097599544075566,CM HTO,0.1166109517803835
+eutrophication: freshwater,Anesthesia,9.570338448991984e-05,CM HTO,0.040847849784020646
+eutrophication: marine,Anesthesia,1.368640053901756e-05,CM HTO,0.06444765697984828
+human toxicity: carcinogenic,Anesthesia,0.01766929375479487,CM HTO,0.007214374164179593
+human toxicity: non-carcinogenic,Anesthesia,0.31780815820188557,CM HTO,0.055245578707120914
+ionising radiation,Anesthesia,0.4003721607385393,CM HTO,0.2944661935099254
+land use,Anesthesia,0.05388941158554447,CM HTO,0.17429977570349234
+material resources: metals/minerals,Anesthesia,0.0027718444073132776,CM HTO,0.006227696430386884
+ozone depletion,Anesthesia,3.3366794485335944e-07,CM HTO,0.11934506878206616
+particulate matter formation,Anesthesia,0.000413467596998412,CM HTO,0.036075456993951774
+photochemical oxidant formation: human health,Anesthesia,0.0010255339519000188,CM HTO,0.059342238598310997
+photochemical oxidant formation: terrestrial ecosystems,Anesthesia,0.0010354585236272461,CM HTO,0.059117290984542395
+water use,Anesthesia,0.002856913130154612,CM HTO,0.05604067138953627
+acidification: terrestrial,End-of-life,0.0,CM HTO,0.0
+climate change,End-of-life,0.0,CM HTO,0.0
+ecotoxicity: freshwater,End-of-life,0.0,CM HTO,0.0
+ecotoxicity: marine,End-of-life,0.0,CM HTO,0.0
+ecotoxicity: terrestrial,End-of-life,0.0,CM HTO,0.0
+"energy resources: non-renewable, fossil",End-of-life,0.0,CM HTO,0.0
+eutrophication: freshwater,End-of-life,0.0,CM HTO,0.0
+eutrophication: marine,End-of-life,0.0,CM HTO,0.0
+human toxicity: carcinogenic,End-of-life,0.0,CM HTO,0.0
+human toxicity: non-carcinogenic,End-of-life,0.0,CM HTO,0.0
+ionising radiation,End-of-life,0.0,CM HTO,0.0
+land use,End-of-life,0.0,CM HTO,0.0
+material resources: metals/minerals,End-of-life,0.0,CM HTO,0.0
+ozone depletion,End-of-life,0.0,CM HTO,0.0
+particulate matter formation,End-of-life,0.0,CM HTO,0.0
+photochemical oxidant formation: human health,End-of-life,0.0,CM HTO,0.0
+photochemical oxidant formation: terrestrial ecosystems,End-of-life,0.0,CM HTO,0.0
+water use,End-of-life,0.0,CM HTO,0.0
+acidification: terrestrial,Implant (material),0.008990685789149008,AM HTO,0.38214406530992523
+climate change,Implant (material),2.3386274476173465,AM HTO,0.22875362626396448
+ecotoxicity: freshwater,Implant (material),0.18625038835736685,AM HTO,0.4207819245055292
+ecotoxicity: marine,Implant (material),0.2603341807363967,AM HTO,0.4221942432746269
+ecotoxicity: terrestrial,Implant (material),4.225854568339113,AM HTO,0.1315138276773297
+"energy resources: non-renewable, fossil",Implant (material),0.5218463090495733,AM HTO,0.29010778035885515
+eutrophication: freshwater,Implant (material),0.0010721436493498198,AM HTO,0.45760934128871816
+eutrophication: marine,Implant (material),5.4917499622175246e-05,AM HTO,0.25860007295204857
+human toxicity: carcinogenic,Implant (material),0.7847116276372231,AM HTO,0.32039782525099697
+human toxicity: non-carcinogenic,Implant (material),2.1557239254795655,AM HTO,0.374736181946126
+ionising radiation,Implant (material),0.11489052161517185,AM HTO,0.08449981763962566
+land use,Implant (material),0.0787423624524923,AM HTO,0.25468409674590137
+material resources: metals/minerals,Implant (material),0.21243933211748128,AM HTO,0.4773022853704082
+ozone depletion,Implant (material),8.740308415336173e-07,AM HTO,0.31261999394733436
+particulate matter formation,Implant (material),0.004180917534406244,AM HTO,0.3647891921946924
+photochemical oxidant formation: human health,Implant (material),0.005280084190995226,AM HTO,0.30553061193214975
+photochemical oxidant formation: terrestrial ecosystems,Implant (material),0.005341504561925734,AM HTO,0.3049617848298286
+water use,Implant (material),0.014716868278245551,AM HTO,0.28868332409519765
+acidification: terrestrial,Implant (manufac.),0.002458770064239374,AM HTO,0.10450864484050848
+climate change,Implant (manufac.),1.6303046095132439,AM HTO,0.159468790858916
+ecotoxicity: freshwater,Implant (manufac.),0.03261361125680315,AM HTO,0.0736815543352397
+ecotoxicity: marine,Implant (manufac.),0.04453295939702651,AM HTO,0.07222086258601959
+ecotoxicity: terrestrial,Implant (manufac.),1.7891596705523858,AM HTO,0.05568086473281878
+"energy resources: non-renewable, fossil",Implant (manufac.),0.42807694680846314,AM HTO,0.2379789809907452
+eutrophication: freshwater,Implant (manufac.),0.00019531093409793995,AM HTO,0.08336206435885984
+eutrophication: marine,Implant (manufac.),2.7931130000900047e-05,AM HTO,0.13152441945753332
+human toxicity: carcinogenic,Implant (manufac.),0.03605939629505367,AM HTO,0.014723054617638771
+human toxicity: non-carcinogenic,Implant (manufac.),0.6485811193949371,AM HTO,0.11274486936463105
+ionising radiation,Implant (manufac.),0.8170772759754503,AM HTO,0.60094496784224
+land use,Implant (manufac.),0.10997721105536909,AM HTO,0.3557100115858093
+material resources: metals/minerals,Implant (manufac.),0.005656764630132103,AM HTO,0.012709448193291353
+ozone depletion,Implant (manufac.),6.809476836706203e-07,AM HTO,0.2435587517415687
+particulate matter formation,Implant (manufac.),0.000843802369366533,AM HTO,0.07362259173019037
+photochemical oxidant formation: human health,Implant (manufac.),0.0020929039778717724,AM HTO,0.12110531005640383
+photochemical oxidant formation: terrestrial ecosystems,Implant (manufac.),0.0021131579885830757,AM HTO,0.12064623821895097
+water use,Implant (manufac.),0.005830372405961653,AM HTO,0.11436749008305842
+acidification: terrestrial,Argon,0.002976818386933504,AM HTO,0.12652799872564308
+climate change,Argon,0.8908165909780569,AM HTO,0.08713552290252434
+ecotoxicity: freshwater,Argon,0.034650859242033615,AM HTO,0.0782841601900821
+ecotoxicity: marine,Argon,0.04630178475161531,AM HTO,0.07508943666243623
+ecotoxicity: terrestrial,Argon,1.09996145641957,AM HTO,0.03423216277130988
+"energy resources: non-renewable, fossil",Argon,0.21852479110037165,AM HTO,0.12148354985009385
+eutrophication: freshwater,Argon,0.0007929531713611218,AM HTO,0.3384460455829906
+eutrophication: marine,Argon,5.742192341348528e-05,AM HTO,0.2703931112293067
+human toxicity: carcinogenic,Argon,0.053295269175271644,AM HTO,0.021760463001343117
+human toxicity: non-carcinogenic,Argon,1.0314329547127883,AM HTO,0.17929719237888825
+ionising radiation,Argon,0.42783536122326515,AM HTO,0.31466486090333173
+land use,Argon,0.02062810260460689,AM HTO,0.06671948257338317
+material resources: metals/minerals,Argon,0.0037264752147978387,AM HTO,0.00837253214209681
+ozone depletion,Argon,3.8747050243618563e-07,AM HTO,0.13858896090420394
+particulate matter formation,Argon,0.0011878042401715224,AM HTO,0.103637095372448
+photochemical oxidant formation: human health,Argon,0.0014421378248402538,AM HTO,0.08344890652792634
+photochemical oxidant formation: terrestrial ecosystems,Argon,0.0014558068967991584,AM HTO,0.08311618280363049
+water use,Argon,0.04013282239524739,AM HTO,0.7872379065529951
+acidification: terrestrial,Instruments (material),0.012296625501269368,AM HTO,0.5226611816776163
+climate change,Instruments (material),3.1985575499755092,AM HTO,0.31286797694790397
+ecotoxicity: freshwater,Instruments (material),0.25473599331661834,AM HTO,0.5755064590948791
+ecotoxicity: marine,Instruments (material),0.3560609280282937,AM HTO,0.5774380976149323
+ecotoxicity: terrestrial,Instruments (material),5.779731632085919,AM HTO,0.17987240630055729
+"energy resources: non-renewable, fossil",Instruments (material),0.7137329434142853,AM HTO,0.3967824939875944
+eutrophication: freshwater,Instruments (material),0.0014663785665305605,AM HTO,0.6258755814268698
+eutrophication: marine,Instruments (material),7.511105850623959e-05,AM HTO,0.3536891763618459
+human toxicity: carcinogenic,Instruments (material),1.0732557268537033,AM HTO,0.4382104058499783
+human toxicity: non-carcinogenic,Instruments (material),2.948399089615713,AM HTO,0.5125293664170075
+ionising radiation,Instruments (material),0.15713659125451318,AM HTO,0.1155710072410824
+land use,Instruments (material),0.10769649444674749,AM HTO,0.3483332675904711
+material resources: metals/minerals,Instruments (material),0.29055479971742226,AM HTO,0.6528097624303109
+ozone depletion,Instruments (material),1.195418256955407e-06,AM HTO,0.4275726101360446
+particulate matter formation,Instruments (material),0.0057182709281569065,AM HTO,0.49892479712087684
+photochemical oxidant formation: human health,Instruments (material),0.007221609055696611,AM HTO,0.4178764114565867
+photochemical oxidant formation: terrestrial ecosystems,Instruments (material),0.007305614137977774,AM HTO,0.41709842254492274
+water use,Instruments (material),0.020128366401983486,AM HTO,0.394834254929093
+acidification: terrestrial,Instruments (manufac.),0.0026302836058727805,AM HTO,0.11179873189199878
+climate change,Instruments (manufac.),1.7440278574027874,AM HTO,0.17059266840159734
+ecotoxicity: freshwater,Instruments (manufac.),0.03488860071330602,AM HTO,0.07882127216444658
+ecotoxicity: marine,Instruments (manufac.),0.047639392851983826,AM HTO,0.07725868865284205
+ecotoxicity: terrestrial,Instruments (manufac.),1.9139639847528813,AM HTO,0.059564929554671436
+"energy resources: non-renewable, fossil",Instruments (manufac.),0.45793780867048833,AM HTO,0.25457940185061867
+eutrophication: freshwater,Instruments (manufac.),0.00020893501001869065,AM HTO,0.08917705417999343
+eutrophication: marine,Instruments (manufac.),2.9879489100415682e-05,AM HTO,0.14069901423584477
+human toxicity: carcinogenic,Instruments (manufac.),0.03857474933992672,AM HTO,0.015750073482826758
+human toxicity: non-carcinogenic,Instruments (manufac.),0.6938234323878756,AM HTO,0.12060948107719706
+ionising radiation,Instruments (manufac.),0.8740731778814212,AM HTO,0.6428643816420339
+land use,Instruments (manufac.),0.11764876247101813,AM HTO,0.38052285796329915
+material resources: metals/minerals,Instruments (manufac.),0.0060513569305718305,AM HTO,0.013596006275131372
+ozone depletion,Instruments (manufac.),7.284477531533443e-07,AM HTO,0.2605483941300816
+particulate matter formation,Instruments (manufac.),0.0009026625022897323,AM HTO,0.07875819657406237
+photochemical oxidant formation: human health,Instruments (manufac.),0.002238896227722299,AM HTO,0.1295531112316679
+photochemical oxidant formation: terrestrial ecosystems,Instruments (manufac.),0.0022605630737206023,AM HTO,0.1290620164580931
+water use,Instruments (manufac.),0.0062370748605474246,AM HTO,0.12234528904732919
+acidification: terrestrial,Packaging,0.0005079128448324646,AM HTO,0.021588551073786214
+climate change,Packaging,0.23215335059670014,AM HTO,0.02270815766420185
+ecotoxicity: freshwater,Packaging,0.006214486168869638,AM HTO,0.01403993555671171
+ecotoxicity: marine,Packaging,0.008259177107427986,AM HTO,0.013394234360921069
+ecotoxicity: terrestrial,Packaging,0.5746416260143815,AM HTO,0.017883559066628855
+"energy resources: non-renewable, fossil",Packaging,0.06248005691466815,AM HTO,0.03473427005974555
+eutrophication: freshwater,Packaging,6.813648674820565e-05,AM HTO,0.02908182391182589
+eutrophication: marine,Packaging,6.294464509974837e-05,AM HTO,0.29639896074516503
+human toxicity: carcinogenic,Packaging,0.007501422622289028,AM HTO,0.0030628315037293675
+human toxicity: non-carcinogenic,Packaging,0.14141184738619014,AM HTO,0.024582060413724103
+ionising radiation,Packaging,0.014641722784903546,AM HTO,0.010768711707989324
+land use,Packaging,0.05061881450980233,AM HTO,0.1637213648441823
+material resources: metals/minerals,Packaging,0.0017908068337449954,AM HTO,0.004023530792926525
+ozone depletion,Packaging,1.2025668535226945e-07,AM HTO,0.04301294926960193
+particulate matter formation,Packaging,0.00020171706946766396,AM HTO,0.017600013924560676
+photochemical oxidant formation: human health,Packaging,0.0004446190335649367,AM HTO,0.025727757453839237
+photochemical oxidant formation: terrestrial ecosystems,Packaging,0.0004582625840565291,AM HTO,0.02616352264318286
+water use,Packaging,0.0023347411771964294,AM HTO,0.04579784443211379
+acidification: terrestrial,Sterilisation,0.000170210286327382,AM HTO,0.007234692914439934
+climate change,Sterilisation,0.09835412265996415,AM HTO,0.009620541416034425
+ecotoxicity: freshwater,Sterilisation,0.008156169100059327,AM HTO,0.018426638251784068
+ecotoxicity: marine,Sterilisation,0.010228081626445739,AM HTO,0.016587284736155478
+ecotoxicity: terrestrial,Sterilisation,0.2806380942643953,AM HTO,0.008733805049823982
+"energy resources: non-renewable, fossil",Sterilisation,0.025759054337712594,AM HTO,0.014320120595788376
+eutrophication: freshwater,Sterilisation,1.4591159713290578e-05,AM HTO,0.006227757809400399
+eutrophication: marine,Sterilisation,1.8312524073075191e-06,AM HTO,0.00862315308201174
+human toxicity: carcinogenic,Sterilisation,0.003208968836783302,AM HTO,0.0013102222528540253
+human toxicity: non-carcinogenic,Sterilisation,0.06518489120581378,AM HTO,0.01133129199074328
+ionising radiation,Sterilisation,0.0483083028599128,AM HTO,0.03552984810892689
+land use,Sterilisation,0.006860332947546135,AM HTO,0.022189043428511364
+material resources: metals/minerals,Sterilisation,0.0005549178543898314,AM HTO,0.0012467727018960757
+ozone depletion,Sterilisation,4.166508336584579e-08,AM HTO,0.014902606968412004
+particulate matter formation,Sterilisation,5.959197389095286e-05,AM HTO,0.005199458692517624
+photochemical oxidant formation: human health,Sterilisation,0.00013075317417815226,AM HTO,0.007565996274614695
+photochemical oxidant formation: terrestrial ecosystems,Sterilisation,0.0001321937706116772,AM HTO,0.0075473207523739155
+water use,Sterilisation,0.000429911302162711,AM HTO,0.008433059359366755
+acidification: terrestrial,Transport,0.0002310103409344851,AM HTO,0.009818965191718909
+climate change,Transport,0.060919130394657184,AM HTO,0.0059588251223267495
+ecotoxicity: freshwater,Transport,0.001218818071406794,AM HTO,0.0027535868152104345
+ecotoxicity: marine,Transport,0.0023645055846939524,AM HTO,0.003834612278820617
+ecotoxicity: terrestrial,Transport,1.3215877620839231,AM HTO,0.04112944787673662
+"energy resources: non-renewable, fossil",Transport,0.02105391667951908,AM HTO,0.01170441359809509
+eutrophication: freshwater,Transport,3.919647559067976e-06,AM HTO,0.0016729729627897926
+eutrophication: marine,Transport,3.9195694320200036e-07,AM HTO,0.00184567933360846
+human toxicity: carcinogenic,Transport,0.002510924683178732,AM HTO,0.00102521076472622
+human toxicity: non-carcinogenic,Transport,0.04381784974567665,AM HTO,0.007616992844355545
+ionising radiation,Transport,0.0014275193262141372,AM HTO,0.001049913613815526
+land use,Transport,0.0025551695615366908,AM HTO,0.00826443392786465
+material resources: metals/minerals,Transport,0.001016252302025597,AM HTO,0.002283285027470866
+ozone depletion,Transport,2.169323955001886e-08,AM HTO,0.007759154591073007
+particulate matter formation,Transport,9.685196700366742e-05,AM HTO,0.00845042996303737
+photochemical oxidant formation: human health,Transport,0.0004239592207747638,AM HTO,0.024532283098534422
+photochemical oxidant formation: terrestrial ecosystems,Transport,0.00043072988134387936,AM HTO,0.024591601836395863
+water use,Transport,9.64961487090603e-05,AM HTO,0.001892850329637995
+acidification: terrestrial,Anesthesia,0.0008433671420472438,AM HTO,0.035846848145857875
+climate change,Anesthesia,2.5759830577532163,AM HTO,0.2519706446856007
+ecotoxicity: freshwater,Anesthesia,0.011186588171675475,AM HTO,0.02527304313855522
+ecotoxicity: marine,Anesthesia,0.015274968261497346,AM HTO,0.024772020515956766
+ecotoxicity: terrestrial,Anesthesia,0.6136883232661078,AM HTO,0.019098740642494273
+"energy resources: non-renewable, fossil",Anesthesia,0.14683196141720045,AM HTO,0.08162766253930624
+eutrophication: freshwater,Anesthesia,6.699236610061515e-05,AM HTO,0.028593493550296244
+eutrophication: marine,Anesthesia,9.580479942233332e-06,AM HTO,0.04511335783715793
+human toxicity: carcinogenic,Anesthesia,0.01236850506666478,AM HTO,0.005050061685586974
+human toxicity: non-carcinogenic,Anesthesia,0.22246570063847093,AM HTO,0.03867190333877504
+ionising radiation,Anesthesia,0.2802604997894894,AM HTO,0.2061263260961197
+land use,Anesthesia,0.037722586396782894,AM HTO,0.12200983745160406
+material resources: metals/minerals,Anesthesia,0.0019402909970047538,AM HTO,0.0043593873032977265
+ozone depletion,Anesthesia,2.335675507903333e-07,AM HTO,0.08354154435356875
+particulate matter formation,Anesthesia,0.0002894273047551079,AM HTO,0.025252818748958388
+photochemical oxidant formation: human health,Anesthesia,0.0007178737337291675,AM HTO,0.04153956513237878
+photochemical oxidant formation: terrestrial ecosystems,Anesthesia,0.000724820933622733,AM HTO,0.041382101809891644
+water use,Anesthesia,0.001999839100289408,AM HTO,0.03922846819119047
+acidification: terrestrial,End-of-life,0.0,AM HTO,0.0
+climate change,End-of-life,0.0,AM HTO,0.0
+ecotoxicity: freshwater,End-of-life,0.0,AM HTO,0.0
+ecotoxicity: marine,End-of-life,0.0,AM HTO,0.0
+ecotoxicity: terrestrial,End-of-life,0.0,AM HTO,0.0
+"energy resources: non-renewable, fossil",End-of-life,0.0,AM HTO,0.0
+eutrophication: freshwater,End-of-life,0.0,AM HTO,0.0
+eutrophication: marine,End-of-life,0.0,AM HTO,0.0
+human toxicity: carcinogenic,End-of-life,0.0,AM HTO,0.0
+human toxicity: non-carcinogenic,End-of-life,0.0,AM HTO,0.0
+ionising radiation,End-of-life,0.0,AM HTO,0.0
+land use,End-of-life,0.0,AM HTO,0.0
+material resources: metals/minerals,End-of-life,0.0,AM HTO,0.0
+ozone depletion,End-of-life,0.0,AM HTO,0.0
+particulate matter formation,End-of-life,0.0,AM HTO,0.0
+photochemical oxidant formation: human health,End-of-life,0.0,AM HTO,0.0
+photochemical oxidant formation: terrestrial ecosystems,End-of-life,0.0,AM HTO,0.0
+water use,End-of-life,0.0,AM HTO,0.0
+acidification: terrestrial,Implant (material),0.13421774046464266,UKR,5.7048499058630515
+climate change,Implant (material),21.117147726707394,UKR,2.065580870419405
+ecotoxicity: freshwater,Implant (material),7.818058881269107,UKR,17.662770483172743
+ecotoxicity: marine,Implant (material),10.074695652204019,UKR,16.33853263168443
+ecotoxicity: terrestrial,Implant (material),652.785457023818,UKR,20.315491864889015
+"energy resources: non-renewable, fossil",Implant (material),6.410159423350908,UKR,3.5635724346535005
+eutrophication: freshwater,Implant (material),0.013658169114438616,UKR,5.829541382312363
+eutrophication: marine,Implant (material),0.0033837853534492914,UKR,15.933848869235904
+human toxicity: carcinogenic,Implant (material),9.286169512058757,UKR,3.7915438127689143
+human toxicity: non-carcinogenic,Implant (material),127.2140427338359,UKR,22.114011956982786
+ionising radiation,Implant (material),4.742120945972483,UKR,3.487740759867944
+land use,Implant (material),0.8038997627866468,UKR,2.6001313471270024
+material resources: metals/minerals,Implant (material),6.020384441495636,UKR,13.526418220639172
+ozone depletion,Implant (material),1.5940519686485692e-05,UKR,5.701543848455662
+particulate matter formation,Implant (material),0.05474340839244897,UKR,4.7764165547698685
+photochemical oxidant formation: human health,Implant (material),0.0555503888179376,UKR,3.214407890987485
+photochemical oxidant formation: terrestrial ecosystems,Implant (material),0.056602970493341676,UKR,3.2316256043964424
+water use,Implant (material),3.1320748578557054,UKR,61.43819216057894
+acidification: terrestrial,Implant (manufac.),0.008269050742490555,UKR,0.35147137171707293
+climate change,Implant (manufac.),3.7916170503242244,UKR,0.3708782904047489
+ecotoxicity: freshwater,Implant (manufac.),0.09886684523632386,UKR,0.2233626559130081
+ecotoxicity: marine,Implant (manufac.),0.13243948976011566,UKR,0.21478236165832973
+ecotoxicity: terrestrial,Implant (manufac.),3.5058419294518335,UKR,0.10910614265533007
+"energy resources: non-renewable, fossil",Implant (manufac.),1.1266596650836265,UKR,0.6263390752969996
+eutrophication: freshwater,Implant (manufac.),0.0018782675667443761,UKR,0.8016768877035197
+eutrophication: marine,Implant (manufac.),0.00015090663086657642,UKR,0.7106016482820124
+human toxicity: carcinogenic,Implant (manufac.),0.14213617229048162,UKR,0.05803421140641591
+human toxicity: non-carcinogenic,Implant (manufac.),2.647299351280883,UKR,0.46018826420306297
+ionising radiation,Implant (manufac.),1.7487499264381539,UKR,1.2861726781630276
+land use,Implant (manufac.),0.08622471734375285,UKR,0.27888500636634483
+material resources: metals/minerals,Implant (manufac.),0.012763308752644439,UKR,0.028676217232486898
+ozone depletion,Implant (manufac.),1.583226267706253e-06,UKR,0.566282289717751
+particulate matter formation,Implant (manufac.),0.003250789654194297,UKR,0.2836346142179556
+photochemical oxidant formation: human health,Implant (manufac.),0.004657097581326893,UKR,0.2694816640001994
+photochemical oxidant formation: terrestrial ecosystems,Implant (manufac.),0.004737925583368948,UKR,0.2705017332746014
+water use,Implant (manufac.),0.03868647702192099,UKR,0.758866667355402
+acidification: terrestrial,Argon,3.443969635180269e-06,UKR,0.00014638400096020923
+climate change,Argon,0.0010613074185065483,UKR,0.00010381214024130617
+ecotoxicity: freshwater,Argon,2.4542033012856693e-05,UKR,5.544602603788132e-05
+ecotoxicity: marine,Argon,3.287562564511573e-05,UKR,5.331570311727045e-05
+ecotoxicity: terrestrial,Argon,0.0009909291433428974,UKR,3.083894215726921e-05
+"energy resources: non-renewable, fossil",Argon,0.0002619922428592827,UKR,0.00014564822387183802
+eutrophication: freshwater,Argon,4.920327226426722e-07,UKR,0.00021000802479924293
+eutrophication: marine,Argon,3.5120233601594256e-08,UKR,0.00016537706621657598
+human toxicity: carcinogenic,Argon,4.270344092684112e-05,UKR,1.7435818613891658e-05
+human toxicity: non-carcinogenic,Argon,0.0007784503629845971,UKR,0.00013532044312888016
+ionising radiation,Argon,0.00013183351386394042,UKR,9.696106975305913e-05
+land use,Argon,1.4548891424770285e-05,UKR,4.705689740268302e-05
+material resources: metals/minerals,Argon,2.9034695276064903e-06,UKR,6.523427781553826e-06
+ozone depletion,Argon,3.737175891864984e-10,UKR,0.0001336698717227153
+particulate matter formation,Argon,2.2013932785166916e-06,UKR,0.00019207374198711012
+photochemical oxidant formation: human health,Argon,2.26229337252068e-06,UKR,0.00013090698054684014
+photochemical oxidant formation: terrestrial ecosystems,Argon,2.278588615189022e-06,UKR,0.0001300911462163857
+water use,Argon,2.760978820880937e-05,UKR,0.0005415884199674085
+acidification: terrestrial,Instruments (material),0.0025117459433497483,UKR,0.10676035491929232
+climate change,Instruments (material),0.6940001585859241,UKR,0.06788385771578978
+ecotoxicity: freshwater,Instruments (material),0.056136990805027286,UKR,0.12682621086171963
+ecotoxicity: marine,Instruments (material),0.08149489964499773,UKR,0.13216350380513503
+ecotoxicity: terrestrial,Instruments (material),19.24589063179097,UKR,0.5989559515392623
+"energy resources: non-renewable, fossil",Instruments (material),0.16372138390725327,UKR,0.09101692674442434
+eutrophication: freshwater,Instruments (material),0.0002319958579990286,UKR,0.09901982054832596
+eutrophication: marine,Instruments (material),1.9467466624872312e-05,UKR,0.09167002001217742
+human toxicity: carcinogenic,Instruments (material),1.0308825644711372,UKR,0.4209094399942029
+human toxicity: non-carcinogenic,Instruments (material),0.9145021347836544,UKR,0.15897074496409427
+ionising radiation,Instruments (material),0.043981418306371325,UKR,0.03234750590539315
+land use,Instruments (material),0.021840383870638514,UKR,0.07064048201542454
+material resources: metals/minerals,Instruments (material),0.06316527556835308,UKR,0.1419178364209592
+ozone depletion,Instruments (material),2.044119727100523e-07,UKR,0.07311328918239478
+particulate matter formation,Instruments (material),0.0022689465731814593,UKR,0.19796783379544095
+photochemical oxidant formation: human health,Instruments (material),0.0015975581134749434,UKR,0.0924422585608752
+photochemical oxidant formation: terrestrial ecosystems,Instruments (material),0.0016460235962305618,UKR,0.09397619864570746
+water use,Instruments (material),0.005128527539752562,UKR,0.10060023300460182
+acidification: terrestrial,Instruments (manufac.),4.581565360725827e-05,UKR,0.001947368703001488
+climate change,Instruments (manufac.),0.023099105127415948,UKR,0.002259446696707683
+ecotoxicity: freshwater,Instruments (manufac.),0.0009345011233793142,UKR,0.002111250261629715
+ecotoxicity: marine,Instruments (manufac.),0.0012404177011992173,UKR,0.0020116344738938807
+ecotoxicity: terrestrial,Instruments (manufac.),0.08934095700762741,UKR,0.0027804012264072697
+"energy resources: non-renewable, fossil",Instruments (manufac.),0.0033876854867578693,UKR,0.0018833014626608612
+eutrophication: freshwater,Instruments (manufac.),7.659711103653135e-06,UKR,0.003269296380881632
+eutrophication: marine,Instruments (manufac.),1.4303172311162079e-06,UKR,0.006735196300923155
+human toxicity: carcinogenic,Instruments (manufac.),0.0015334571060233342,UKR,0.0006261106686604398
+human toxicity: non-carcinogenic,Instruments (manufac.),0.02476378196942592,UKR,0.004304765093565759
+ionising radiation,Instruments (manufac.),0.05509595017964003,UKR,0.04052203504180704
+land use,Instruments (manufac.),0.001174822624242645,UKR,0.003799843306357608
+material resources: metals/minerals,Instruments (manufac.),0.0002735422562286049,UKR,0.0006145864927267257
+ozone depletion,Instruments (manufac.),3.179623521397354e-08,UKR,0.011372755271082852
+particulate matter formation,Instruments (manufac.),1.8299999110094955e-05,UKR,0.0015966930315173449
+photochemical oxidant formation: human health,Instruments (manufac.),2.6407951426527582e-05,UKR,0.0015280888083151316
+photochemical oxidant formation: terrestrial ecosystems,Instruments (manufac.),2.6920590505142034e-05,UKR,0.0015369735687656607
+water use,Instruments (manufac.),0.0035748001394685755,UKR,0.0701226081341805
+acidification: terrestrial,Packaging,0.0007036822666008099,UKR,0.0299096207288086
+climate change,Packaging,0.3459041509388158,UKR,0.03383473025925026
+ecotoxicity: freshwater,Packaging,0.008267973099753172,UKR,0.018679228877626543
+ecotoxicity: marine,Packaging,0.011188464774430314,UKR,0.018144776093111062
+ecotoxicity: terrestrial,Packaging,1.0495833392641774,UKR,0.032664333374642626
+"energy resources: non-renewable, fossil",Packaging,0.07557555490116037,UKR,0.04201439408797589
+eutrophication: freshwater,Packaging,9.86636498935844e-05,UKR,0.04211134194967607
+eutrophication: marine,Packaging,7.35826792203576e-05,UKR,0.3464922173315428
+human toxicity: carcinogenic,Packaging,0.010523878784970481,UKR,0.00429690061565962
+human toxicity: non-carcinogenic,Packaging,0.20419148660546177,UKR,0.0354952399850607
+ionising radiation,Packaging,0.008897544500965143,UKR,0.0065439766240274816
+land use,Packaging,0.10089359269321342,UKR,0.326329979469731
+material resources: metals/minerals,Packaging,0.007278421926253146,UKR,0.016352938905727452
+ozone depletion,Packaging,1.4380103403105712e-07,UKR,0.051434201463107544
+particulate matter formation,Packaging,0.0003255862961340354,UKR,0.028407726528685034
+photochemical oxidant formation: human health,Packaging,0.000607259256104063,UKR,0.03513888896608016
+photochemical oxidant formation: terrestrial ecosystems,Packaging,0.0006272174379071988,UKR,0.035809638861679025
+water use,Packaging,0.0026773085372235068,UKR,0.052517581427063816
+acidification: terrestrial,Sterilisation,0.0010212617027463074,UKR,0.04340815683980769
+climate change,Sterilisation,0.5901247271662404,UKR,0.05772324763606305
+ecotoxicity: freshwater,Sterilisation,0.04893701387113767,UKR,0.11055982786323468
+ecotoxicity: marine,Sterilisation,0.06136848884421266,UKR,0.099523706933914
+ecotoxicity: terrestrial,Sterilisation,1.6838285404953772,UKR,0.052402829518081076
+"energy resources: non-renewable, fossil",Sterilisation,0.1545543237232367,UKR,0.08592072229441172
+eutrophication: freshwater,Sterilisation,8.754695697519216e-05,UKR,0.037366546299597465
+eutrophication: marine,Sterilisation,1.0987514280118386e-05,UKR,0.051738917721100446
+human toxicity: carcinogenic,Sterilisation,0.019253812733795717,UKR,0.007861333399981185
+human toxicity: non-carcinogenic,Sterilisation,0.39110934140689957,UKR,0.06798775093136328
+ionising radiation,Sterilisation,0.2898498128403779,UKR,0.2131790854769454
+land use,Sterilisation,0.04116199707191528,UKR,0.13313425858721323
+material resources: metals/minerals,Sterilisation,0.003329507076725487,UKR,0.0074806360999063355
+ozone depletion,Sterilisation,2.49990496469926e-07,UKR,0.08941564047807514
+particulate matter formation,Sterilisation,0.0003575518380177801,UKR,0.031196751690237962
+photochemical oxidant formation: human health,Sterilisation,0.0007845190333786679,UKR,0.04539597697123534
+photochemical oxidant formation: terrestrial ecosystems,Sterilisation,0.0007931626118510186,UKR,0.0452839238394604
+water use,Sterilisation,0.0025794677745392064,UKR,0.05059835540222639
+acidification: terrestrial,Transport,0.011482594514289736,UKR,0.48806125037670367
+climate change,Transport,3.797276077721972,UKR,0.3714318300630989
+ecotoxicity: freshwater,Transport,0.010747353292038618,UKR,0.024280711795820385
+ecotoxicity: marine,Transport,0.021501455164216324,UKR,0.034869760730925355
+ecotoxicity: terrestrial,Transport,11.594096109456483,UKR,0.36082262963742845
+"energy resources: non-renewable, fossil",Transport,1.2328678786845062,UKR,0.685382951950544
+eutrophication: freshwater,Transport,5.1843902408841105e-05,UKR,0.022127868821993645
+eutrophication: marine,Transport,6.547164838379897e-06,UKR,0.03082983232088865
+human toxicity: carcinogenic,Transport,0.025865592324186806,UKR,0.010560923577048856
+human toxicity: non-carcinogenic,Transport,1.0220367014452965,UKR,0.1776638125047583
+ionising radiation,Transport,0.037264543928587975,UKR,0.027407371140124433
+land use,Transport,0.012985923921566422,UKR,0.04200163928749964
+material resources: metals/minerals,Transport,0.014692589535237294,UKR,0.033010867118053004
+ozone depletion,Transport,9.80149482038264e-07,UKR,0.3505761016449207
+particulate matter formation,Transport,0.0038515714754804816,UKR,0.33605342264187427
+photochemical oxidant formation: human health,Transport,0.0194289132757032,UKR,1.1242486952056319
+photochemical oxidant formation: terrestrial ecosystems,Transport,0.019591221035534234,UKR,1.118518886341311
+water use,Transport,0.0018517246124608842,UKR,0.03632308221609134
+acidification: terrestrial,Anesthesia,0.0012048102576387612,UKR,0.051209785391104594
+climate change,Anesthesia,3.6799758330688905,UKR,0.359958067385174
+ecotoxicity: freshwater,Anesthesia,0.015980840970989736,UKR,0.03610434898040252
+ecotoxicity: marine,Anesthesia,0.021821384221686536,UKR,0.03538860234418616
+ecotoxicity: terrestrial,Anesthesia,0.8766976444793985,UKR,0.027283916442609614
+"energy resources: non-renewable, fossil",Anesthesia,0.2097599544075569,UKR,0.11661095178038368
+eutrophication: freshwater,Anesthesia,9.570338448991998e-05,UKR,0.0408478497840207
+eutrophication: marine,Anesthesia,1.3686400539017605e-05,UKR,0.0644476569798485
+human toxicity: carcinogenic,Anesthesia,0.01766929375479515,UKR,0.007214374164179706
+human toxicity: non-carcinogenic,Anesthesia,0.31780815820188746,UKR,0.05524557870712124
+ionising radiation,Anesthesia,0.40037216073853965,UKR,0.29446619350992564
+land use,Anesthesia,0.053889411585544354,UKR,0.17429977570349195
+material resources: metals/minerals,Anesthesia,0.0027718444073133552,UKR,0.006227696430387059
+ozone depletion,Anesthesia,3.336679448533595e-07,UKR,0.11934506878206617
+particulate matter formation,Anesthesia,0.00041346759699841353,UKR,0.036075456993951906
+photochemical oxidant formation: human health,Anesthesia,0.0010255339519000205,UKR,0.0593422385983111
+photochemical oxidant formation: terrestrial ecosystems,Anesthesia,0.001035458523627248,UKR,0.059117290984542506
+water use,Anesthesia,0.0028569131301546184,UKR,0.0560406713895364
+acidification: terrestrial,End-of-life,1.1741819886347338e-05,UKR,0.0004990794796678584
+climate change,End-of-life,0.12805910501139367,UKR,0.01252614420365227
+ecotoxicity: freshwater,End-of-life,0.012870950320780991,UKR,0.02907839974970483
+ecotoxicity: marine,End-of-life,0.018405459729359554,UKR,0.02984886241437053
+ecotoxicity: terrestrial,End-of-life,0.38367060103260164,UKR,0.011940304261083596
+"energy resources: non-renewable, fossil",End-of-life,0.0006047554636865182,UKR,0.0003361991110936832
+eutrophication: freshwater,End-of-life,2.274003480227041e-07,UKR,9.705837788676949e-05
+eutrophication: marine,End-of-life,8.54399065989273e-06,UKR,0.04023265121592886
+human toxicity: carcinogenic,End-of-life,0.0006775940157618926,UKR,0.0002766616950826764
+human toxicity: non-carcinogenic,End-of-life,0.13649468501742384,UKR,0.02372729481489134
+ionising radiation,End-of-life,3.5590814184779434e-05,UKR,2.617637439520964e-05
+land use,End-of-life,0.00011419163064233861,UKR,0.000369341119573751
+material resources: metals/minerals,End-of-life,6.330754925822669e-05,UKR,0.00014223749265715563
+ozone depletion,End-of-life,9.703875847607433e-09,UKR,0.003470845037254946
+particulate matter formation,End-of-life,4.5167113980461594e-06,UKR,0.0003940875390893856
+photochemical oxidant formation: human health,End-of-life,2.4829019079696142e-05,UKR,0.0014367243245916347
+photochemical oxidant formation: terrestrial ecosystems,End-of-life,2.5029130457335758e-05,UKR,0.0014289847005683157
+water use,End-of-life,8.509082803990153e-05,UKR,0.0016691257014838227

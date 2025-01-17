@@ -177,6 +177,12 @@ def recursive_calculation(
             _log.warning(
                 "Warning: only %d out of %d found", len(result), num_expected_labels
             )
+
+        for activity, label in final_activities.items():
+            if label not in result:
+                _log.debug("No value found for activity %s (%s), assigning 0", activity, label)
+                result[label] = 0
+
         total_accounted_for = sum(result.values())
         missing = total_score - total_accounted_for
         #print(missing)
